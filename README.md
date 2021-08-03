@@ -12,7 +12,7 @@ Django框架的intro：[Django 开始](https://docs.djangoproject.com/zh-hans/3.
 
 ----------
 
-**注意：**本项目为Github用户[laowuniubi](https://github.com/laowuniubi/)原创，本repo仅作参考研究，未经原作者授权禁止抄袭为重要的学术作品或用于商业用途。
+**注意：** 本项目为Github用户[laowuniubi](https://github.com/laowuniubi/)原创，本repo仅作参考研究，未经原作者授权禁止抄袭为重要的学术作品或用于商业用途。
 
 ----------
 
